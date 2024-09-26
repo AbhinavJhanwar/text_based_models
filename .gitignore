@@ -1,0 +1,10 @@
+text_analysis_models.egg-info/
+build/
+text_analysis_models/__pycache__/
+bubble_plot_reviews1.html
+bubble_plot_reviews2.html
+bubble_plot_reviews3.html
+bubble_plot_reviews4.html
+*.json
+*.csv
+*.ipynb
